@@ -3,15 +3,15 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
+url: http://denkstaette.github.io
+baseurl: ""
+title: Denkstätte
 description: Some descriptions of yourself.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
 # language: ja
-language: en
+language: de
 
 #
 # Icons
@@ -19,9 +19,9 @@ language: en
 icons:
   rss: true
   email:
-  github: ttskch
+  github: denkstaette
   bitbucket:
-  twitter: ttskch
+  twitter: 
   facebook:
   google_plus:
   tumblr:
@@ -46,8 +46,8 @@ permalink: pretty
 #
 # Scripts.
 #
-google_analytics: # e.g. UA-000000-01
-disqus:
+# google_analytics: # e.g. UA-000000-01
+# disqus:
 
 #
 # Localizations.
@@ -74,11 +74,11 @@ paginate_path: page/:num
 # Social.
 #
 share_buttons:
-  twitter: true
+  twitter: false
   facebook: false # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //ttskch.github.io/jekyll-ttskch-theme/assets/img/ogp.png
+  image_url: //denkstaette.github.io/assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
