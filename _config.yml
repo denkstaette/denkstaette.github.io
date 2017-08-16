@@ -1,4 +1,4 @@
-#
+e#
 # Basic settings.
 #
 # url: http://localhost:4000
@@ -6,7 +6,7 @@
 url: https://denkstaette.github.io
 baseurl: ""
 title: Denkstätte
-description: Some descriptions of yourself.
+description: Menschenleben ist KEIN Wirtschaftsgut, weder im Ganzen noch in Teilen.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
