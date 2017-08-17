@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anleitung zur Versklavung: Die Jones Plantage 
+title: Anleitung zur Versklavung - Die Jones Plantage 
 tags: Menschen Demokratie Wahlen Propaganda Ideologie Gesellschaft
 ---
 
