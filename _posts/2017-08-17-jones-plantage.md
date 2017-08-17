@@ -5,5 +5,5 @@ tags: Menschen Demokratie Wahlen Propaganda Ideologie Gesellschaft
 ---
 Die Jones Plantage
 
-{% include yt.html id='cdYqxZnXv_Q' %}
+<iframe width="560" height="315" src="//www.youtube.com/embed/cdYqxZnXv_Q" frameborder="0" allowfullscreen></iframe>
  
