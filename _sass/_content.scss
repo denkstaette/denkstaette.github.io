@@ -124,7 +124,7 @@
             .panel {
                 padding: 1em 1.5em;
                 background-color: rgba($page-title-color, .05);
-                h2 {
+                h3 {
                     margin: 0;
                     &, a {
                         color: $page-title-color;
@@ -137,7 +137,7 @@
                     li {
                         display: inline-block;
                         color: rgba($text-color, .5);
-                        font-size: 1.2em;
+                        font-size: 1.1em;
                         margin-right: 0.5em;
                         &:last-child {
                             margin-right: 0;
