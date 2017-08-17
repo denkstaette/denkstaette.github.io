@@ -17,7 +17,7 @@
     }
 
     h2 {
-        font-size: 1.9em;
+        font-size: 1.5em;
     }
 
     blockquote {
@@ -124,7 +124,7 @@
             .panel {
                 padding: 1em 1.5em;
                 background-color: rgba($page-title-color, .05);
-                h3 {
+                h2 {
                     margin: 0;
                     &, a {
                         color: $page-title-color;
