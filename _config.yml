@@ -5,10 +5,9 @@
 # baseurl: ""
 url: https://denkstaette.github.io
 baseurl: ""
-title: Denkstätte
+title: DENKstätte
 description: Menschenleben ist KEIN Wirtschaftsgut, weder im Ganzen noch in Teilen.
 avatar: /assets/img/dove.png
-# favicon: /favicon.ico
 favicon: /assets/img/dove.png
 # language: ja
 language: de
