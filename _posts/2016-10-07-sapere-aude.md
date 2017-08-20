@@ -6,7 +6,7 @@ tags: Demokratie Parteien Geld Menschen Leben Video Wahlen
 
 **Lieber Mitmensch,**
 
-ich schrieb, dass ich wieder von mir hören lasse. Ich hoffe, Du hast inzwischen ein wenig Zeit gefunden, über den letzten Brief nachzudenken. Ich weiß, Deine Zeit ist knapp. In diesem möchte ich wieder Deinen Hausverstand berühren. Ich beginne mit einem Zitat von Immanuel Kant:
+ich schrieb, dass ich wieder von mir hören lasse. Ich hoffe, Du hast inzwischen ein wenig Zeit gefunden, über den letzten Brief nachzudenken. Ich weiß, Deine Zeit ist knapp. In diesem möchte ich wieder an Deinen Verstand appellieren. Ich beginne mit einem Zitat von Immanuel Kant:
 
 **»Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. >>Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!«** <!--more-->
 
@@ -61,3 +61,31 @@ Prof. Dr. Christian Kreiß - Finanzsystem, Euro und Machtausübung:
 "Jede vierte Fabrik ist zuviel" - über Schulden & globale Überkapazitäten - Prof.Dr. Christian Kreiß:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/JkrtMs3wc5g" frameborder="0" allowfullscreen></iframe>
+
+"We Feed The World" von Erwin Wagenhofer, deutsch:
+
+https://archive.org/details/WE_FEED_THE_WORLD_DEUTSCH
+
+Ernst Wolff: Der IWF - leihe und herrsche. Wie man sich die Welt durch Kreditvergabe unterwirft:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/n9gXKX0wopw" frameborder="0" allowfullscreen></iframe>
+
+Nach dem Ende des (Schuld-)Geldes - Prof. Dr. Franz Hörmann 5.7.2016: 
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Ldd6_qQt3as" frameborder="0" allowfullscreen></iframe>
+
+Prof. Dr. Franz Hörmann: Geld oder Leben?:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SM41wdPnuow" frameborder="0" allowfullscreen></iframe>
+
+Prof. Dr. Mathias Binswanger: Geldschöpfung; Wachstum; Spekulation [Ringvorlesung Geld- und Finanzsystem]:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/f3HVeUwwGJM" frameborder="0" allowfullscreen></iframe>
+
+David Graeber - Warum uns Schulden versklaven:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/F1i8HDOzlg8" frameborder="0" allowfullscreen></iframe>
+
+David Graeber: Wir bürokratisieren uns zu Tode:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/VSO87L4TnmM" frameborder="0" allowfullscreen></iframe>
