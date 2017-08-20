@@ -53,3 +53,11 @@ Das Geheimnis von Oz deutsch synchro HD:
 Tele-Akademie: Prof. Dr. Christian Kreiß, Heute gekauft, morgen entsorgt - Geplanter Verschleiß als Teil unseres Wirtschaftssystems:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/dWDaCJ2O6cc" frameborder="0" allowfullscreen></iframe>
+
+Prof. Dr. Christian Kreiß - Finanzsystem, Euro und Machtausübung:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/KfZyNuEMUTA" frameborder="0" allowfullscreen></iframe>
+
+"Jede vierte Fabrik ist zuviel" - über Schulden & globale Überkapazitäten - Prof.Dr. Christian Kreiß:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/JkrtMs3wc5g" frameborder="0" allowfullscreen></iframe>
