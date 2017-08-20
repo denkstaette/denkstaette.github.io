@@ -8,6 +8,6 @@ share: false
 
 Interessante Webseiten:
 
-[Rubikon](http://www.rubikon.news/)</br>
+[RUBIKON](http://www.rubikon.news/)</br>
 
-[TtskchTheme](https://github.com/ttskch/jekyll-ttskch-theme)
+[KRITISCHES NETZWERK](http://www.kritisches-netzwerk.de/)
