@@ -123,7 +123,8 @@
             margin-bottom: $margin;
             .panel {
                 padding: 1em 1.0em;
-                background-color: rgba($page-title-color, .05);
+                background-color: rgba(fff);
+                //background-color: rgba($page-title-color, .05);
                 h3 {
                     margin: 0;
                     &, a {
