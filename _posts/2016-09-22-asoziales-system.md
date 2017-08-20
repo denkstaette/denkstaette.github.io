@@ -35,3 +35,5 @@ In dem obigen Beispiel zeigte ich, dass es theoretisch möglich ist, ein wenig G
 
 Mit lebenslanger eigener Leistung, wie bei unserem Herrn Lehmann, wird man im Normalfall kein Multimillionär oder Milliardär. [Es mag für den Einzelnen erstrebenswert sein, was in der aktuellen Gesellschaft menschlich verständlich ist, aber für das Gemeinwohl ist es nicht nützlich. Wenn Geld die Funktion eines Tauschmittels inne hat, kann es nicht gleichzeitig Wertaufbewahrungsmittel sein.] 
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZzCegQVljdY" frameborder="0" allowfullscreen></iframe> 
+
