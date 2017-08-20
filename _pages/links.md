@@ -8,6 +8,6 @@ share: false
 
 Interessante Webseiten:
 
-[Rubikon](http://www.rubikon.news/)
+[Rubikon](http://www.rubikon.news/)</br>
 
 [TtskchTheme](https://github.com/ttskch/jekyll-ttskch-theme)
