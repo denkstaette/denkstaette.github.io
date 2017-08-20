@@ -37,3 +37,8 @@ Mit lebenslanger eigener Leistung, wie bei unserem Herrn Lehmann, wird man im No
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZzCegQVljdY" frameborder="0" allowfullscreen></iframe> 
 
+Jeden Tag werden 80% der Menschen, auch Du, von einem Teil ihrer, durch Arbeit erbrachten, Leistungen enteignet. Die wohlhabendsten 20% [Aktionäre, Geld-, Immobilien- und Bodenbesitzer] erhalten diese, in Form von Renten [Geld], auf ihre Girokonten. Die Renten [damit sind keine Altersbezüge gemeint] sind in diesem Fall z.B.: Dividenden, Mieten, Pachten und Zinsen. Realisiert wird der Vorgang durch große unsichtbare Zahlungsströme im täglichen Leben. Jede Ware, die Du kaufst und jede Dienstleistung, die Du in Anspruch nimmst, enthält im Preis einen Kapital- und einen Arbeitsanteil.
+
+![Arbeits- und Kapitalanteile](http://userpage.fu-berlin.de/roehrigw/creutz/geldsyndrom/C108.JPG  "Arbeits- und Kapitalanteile")
+
+Je nach Produkt oder Art der Dienstleistung sind die Anteile unterschiedlich hoch. Im Kapitalanteil verstecken sich die vorher beschriebenen Renten [Summe aller Kapitalkosten der einzelnen Produktionsschritte Beispiel: vom Pflügen des Ackers bis zum Brot]. Bei Deiner Wohnung kann so ein verzinster Kapitalanteil leicht über 70% der Miete ausmachen. Der Durchschnitt bei Mieten soll bei 50% liegen. Bei einem Bier in der Kneipe bei ca. 30% des Preises.
