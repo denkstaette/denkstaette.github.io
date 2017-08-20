@@ -42,3 +42,10 @@ Jeden Tag werden 80% der Menschen, auch Du, von einem Teil ihrer, durch Arbeit e
 ![Arbeits- und Kapitalanteile](http://userpage.fu-berlin.de/roehrigw/creutz/geldsyndrom/C108.JPG  "Arbeits- und Kapitalanteile")
 
 Je nach Produkt oder Art der Dienstleistung sind die Anteile unterschiedlich hoch. Im Kapitalanteil verstecken sich die vorher beschriebenen Renten [Summe aller Kapitalkosten der einzelnen Produktionsschritte Beispiel: vom Pflügen des Ackers bis zum Brot]. Bei Deiner Wohnung kann so ein verzinster Kapitalanteil leicht über 70% der Miete ausmachen. Der Durchschnitt bei Mieten soll bei 50% liegen. Bei einem Bier in der Kneipe bei ca. 30% des Preises.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/kIhBef6bC1E" frameborder="0" allowfullscreen></iframe> 
+
+Jeder, der konsumiert, und das müssen wir alle [egal ob vermögend oder nicht], zahlt beim täglichen Einkauf, für Miete, Urlaub, Auto-, Software- oder Computerkauf und und und diese Rentenanteile. Alle zahlen Zinsen, auch wenn man persönlich nicht verschuldet ist. Deshalb steht für unseren Herrn Lehmann überhaupt nicht fest, ob er tatsächlich Gewinner in diesem System ist. Dazu komme ich gleich.
+
+![Verteilung der Vermögen](http://ic.pics.livejournal.com/monenova/79747937/307/307_800.png  "Verteilung der Vermögen")
+
