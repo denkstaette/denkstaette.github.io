@@ -39,3 +39,9 @@ Dein Mitmensch
 **Hier noch eine kleine Auswahl von interessanten Vorträgen und Gesprächen:**
 
 Prof. Rainer Mausfeld: "Warum schweigen die Lämmer?" - Techniken des Meinungs- und Empörungsmanagements:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/nELNwj2xELg" frameborder="0" allowfullscreen></iframe>
+
+KenFM im Gespräch mit: Prof. Rainer Mausfeld:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/OwRNpeWj5Cs" frameborder="0" allowfullscreen></iframe>
