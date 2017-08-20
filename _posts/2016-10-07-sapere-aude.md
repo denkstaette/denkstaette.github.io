@@ -45,3 +45,11 @@ Prof. Rainer Mausfeld: "Warum schweigen die Lämmer?" - Techniken des Meinungs- 
 KenFM im Gespräch mit: Prof. Rainer Mausfeld:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/OwRNpeWj5Cs" frameborder="0" allowfullscreen></iframe>
+
+Das Geheimnis von Oz deutsch synchro HD:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZwnQmpP1q2I" frameborder="0" allowfullscreen></iframe>
+
+Tele-Akademie: Prof. Dr. Christian Kreiß, Heute gekauft, morgen entsorgt - Geplanter Verschleiß als Teil unseres Wirtschaftssystems:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/dWDaCJ2O6cc" frameborder="0" allowfullscreen></iframe>
