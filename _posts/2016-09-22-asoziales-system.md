@@ -21,3 +21,5 @@ Warum das so ist, das will ich Dir mit einem vereinfachten Beispiel darlegen. Ne
 
 Erste Situation: Herr Lehmann, ein Gutverdiener [mit Familie] schafft es, jedes Jahr 30.000 € zu sparen. Er nimmt das Geld und legt es unter die Matratze. Bis er 1 Million € zusammen hat, vergehen gut 33 Jahre. Seine Leistung, sein Geld.
 Zweite Situation: Herr Lehmann, ein Gutverdiener [mit Familie] schafft es, jedes Jahr 30.000 € zu sparen. Er nimmt das Geld und legt es irgendwo an und bekommt 4% Zinsen pro Jahr. Bis er 1 Million € zusammen hat, vergehen gut 21 Jahre. Der Geldbetrag, den er durch seine persönliche Leistung erspart hat, sind nur 21 x 30.000 = 630.000 €. Herr Lehmann erarbeitete 630.000 €.
+
+![Lassen Sie Ihr Geld arbeiten!](http://userpage.fu-berlin.de/roehrigw/creutz/geldsyndrom/C94.JPG  "Lassen Sie Ihr Geld arbeiten!")
