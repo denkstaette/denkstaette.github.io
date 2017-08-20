@@ -4,7 +4,7 @@ title: Sapere Aude!
 tags: Demokratie Parteien Geld Menschen Leben Video Wahlen
 ---
 
-Lieber Mitmensch,
+**Lieber Mitmensch,**
 
 ich schrieb, dass ich wieder von mir hören lasse. Ich hoffe, Du hast inzwischen ein wenig Zeit gefunden, über den letzten Brief nachzudenken. Ich weiß, Deine Zeit ist knapp. In diesem möchte ich wieder Deinen Hausverstand berühren. Ich beginne mit einem Zitat von Immanuel Kant:
 
