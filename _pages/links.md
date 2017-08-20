@@ -6,8 +6,8 @@ order: 4
 share: false
 ---
 
-Interessante Webseiten:
+### Interessante Webseiten:
 
-[RUBIKON](http://www.rubikon.news/)</br>
+[RUBIKON](http://www.rubikon.news/)
 
 [KRITISCHES NETZWERK](http://www.kritisches-netzwerk.de/)
