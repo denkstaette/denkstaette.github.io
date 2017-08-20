@@ -6,7 +6,7 @@ tags: Demokratie Parteien Geld Menschen Leben Wahlen
 
 **Lieber Mitmensch!**
 
-Endlich habe ich Zeit, ein paar Zeilen zu schreiben. Dich wundert, dass ich gerade Dir schreibe? Es ist, weil ich Dich persönlich erreichen möchte. Ein paar Dinge will ich mit Dir bereden. Nicht alles auf einmal, aber so nach und nach. Zu viele Reden und Texte werden an die graue Masse gerichtet. Letztlich fühlt sich niemand selbst verantwortlich und jeder kann sich in dieser ominösen Menge verstecken. Damit dies nicht passiert, schreibe ich jeden Menschen direkt an. Heute bist Du an der Reihe.
+Endlich habe ich Zeit, ein paar Zeilen zu schreiben. Dich wundert, dass ich gerade Dir schreibe? Es ist, weil ich Dich persönlich erreichen möchte. Ein paar Dinge will ich mit Dir bereden. Nicht alles auf einmal, aber so nach und nach. Zu viele Reden und Texte werden an die graue Masse gerichtet. Letztlich fühlt sich niemand selbst verantwortlich und jeder kann sich in dieser ominösen Menge verstecken. Damit dies nicht passiert, schreibe ich jeden Menschen direkt an. Heute bist Du an der Reihe.<!--more-->
 
 Was ich Dir schon lange sagen wollte: Du bist korrupt. Du traust Deinen Augen nicht? Doch, doch. Ich schrieb: Du bist korrupt. Und nicht nur das. Du bist dazu noch bequem, selbstgefällig und nicht willens, Deinen Verstand zu benutzen. Außerdem zu feige, Dir dies einzugestehen. Wenn Du Deine Schnappatmung im Griff hast, erkläre ich Dir, warum ich es so sehe.
 
