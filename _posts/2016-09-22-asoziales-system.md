@@ -49,3 +49,7 @@ Jeder, der konsumiert, und das müssen wir alle [egal ob vermögend oder nicht],
 
 ![Verteilung der Vermögen](http://ic.pics.livejournal.com/monenova/79747937/307/307_800.png  "Verteilung der Vermögen")
 
+Laut »Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung« [die »5 Weisen«] waren von 2006 bis 2008 durchschnittlich 38% Renten in den Waren und Dienstleistungen enthalten. Etwa 518 Milliarden €/Jahr. Zum Vergleich: Das Finanzministerium kann heute rund 350 Milliarden/Jahr verteilen [Darin ist ebenfalls ein Rentenanteil enthalten.]. Wer bekam nun diese rund 500 Milliarden. Sie flossen zu 80% [über 400 Milliarden €] an die 20% wohlhabendsten Bürger, die gleichzeitig fast 80% des Nettovermögens Deutschlands besitzen. Dabei muss man anmerken, dass es in diesen 20% ebenfalls gewaltige Unterschiede gibt. Die Hälfte dieser Minderheit ist weder Gewinner noch Verlierer. Für sie sind Rentenanteilsausgaben und -einnahmen ausgeglichen. Nur die »obersten« 10% sind die absoluten Gewinner in diesem Verteilungsspiel. Wobei davon das oberste Prozent ca. 19% des gesamten Nettovermögens besitzt. Die »untere« Hälfte der Bundesbürger verfügt gemeinsam weniger als 1% des Vermögens. So ist das in hierarchischen Gesellschaften.
+
+![Zinslasten und -erträge](https://lh3.googleusercontent.com/-Fc6m2Ob7ieg/VGlOZDLPYgI/AAAAAAAAAgk/bUCT8qgHUjQ/w958-h719-no/G%2Be%2Bl%2Bd%2B-%2BZins%2B-%2BDezile%2B-%2BCreutz.jpg  "Zinslasten und -erträge")
+
