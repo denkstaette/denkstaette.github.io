@@ -11,3 +11,5 @@ share: false
 [RUBIKON](http://www.rubikon.news/)
 
 [KRITISCHES NETZWERK](http://www.kritisches-netzwerk.de/)
+
+[Norbert Häring](http://norberthaering.de/de/)
