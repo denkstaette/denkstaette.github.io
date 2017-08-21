@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sozialwidriges Verhalten in einem asozialen System oder Der Teufel und der größte Haufen
-tags: Demokratie Parteien Geld Menschen Leben Wahlen Video
+tags: Demokratie Ideologie Propaganda Parteien Geld Menschen Leben Wahlen Video
 ---
 **Lieber Mitmensch,**
 
@@ -148,3 +148,22 @@ Debt Equity Swap
 [Giralgeld - Walter Panhuber](http://www.medianus.at/giralgeld/)
 
 Bargeldabschaffung - Systemische Hintergründe - Monetative
+<iframe width="560" height="315" src="//www.youtube.com/embed/pFCTENfw4Wo" frameborder="0" allowfullscreen></iframe> 
+
+Die Wahrheit über Globale Ungerechtigkeit
+<iframe width="560" height="315" src="//www.youtube.com/embed/22uAtx0ruOM" frameborder="0" allowfullscreen></iframe>
+
+The surprising truth about what motivates us
+<iframe width="560" height="315" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
+
+Gentechnik: Gottfried Glöckner – Ein Landwirt packt aus
+<iframe width="560" height="315" src="//www.youtube.com/embed/ehJe-4hjR2c" frameborder="0" allowfullscreen></iframe>
+
+Schichtwechsel Die Roboter übernehmen Wissenschaft, Umwelt, Technologie ARTE Future
+<iframe width="560" height="315" src="//www.youtube.com/embed/QWcaayW6vwE" frameborder="0" allowfullscreen></iframe>
+
+»Wir sind nicht zu viele - Wir sind nur zu blöd!« Cradle to Cradle - Prof. Dr. Michael Braungart
+<iframe width="560" height="315" src="//www.youtube.com/embed/Fjvmik8mt0c" frameborder="0" allowfullscreen></iframe>
+
+Lernen und Schule - Prof. Dr. Gerald Hüther
+<iframe width="560" height="315" src="//www.youtube.com/embed/rxu0E10Wva0" frameborder="0" allowfullscreen></iframe>
