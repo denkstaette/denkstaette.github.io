@@ -107,9 +107,44 @@ Das Geld-Syndrom – Helmut Creutz
 [Per Saldo ... was unter dem Strich herauskommt / Vom rechtlichen Umgang mit Geld – eine Beschwerde an die Verfassungsorgane der BRD - Dr. Dieter Petschow](http://www.berndsenf.de/pdf/Per-Saldo.pdf)
 
 
+
 ### Weiterführende Links:
 
 [Entschuldung von Staaten und Banken ohne Steuergelder - Paul Kircher](http://humaneconomy.it/deutsch/entschuldung-von-staaten-und-banken-ohne-steuergelder/)
 
 Debt Equity Swap
 <iframe width="560" height="315" src="//www.youtube.com/embed/pTzvh3pmYwg" frameborder="0" allowfullscreen></iframe> 
+
+[»Humes Dilemma – oder: Was ist Geld? Geldschöpfung der Banken als Vermögensrechtsverletzung« - Prof. Dr. Michael Köhler](http://static.squarespace.com/static/515eaee9e4b0daad6e7d3fac/t/532c8bb5e4b07b2b8d0d730e/1395428277184/Humes%20Dilemma%20-%20Was%20ist%20Geld%20-%20K%C3%B6hler%202014.pdf)
+
+[Juristische Wertung der privaten Geldschöpfung - Pan Pawlakudis](https://web.archive.org/web/20140309015357/http://www.spd.de/profil/15711666/blog/juristische-wertung-der-privaten-geldschpfung)
+
+[Geld aus dem Nichts – Mythos oder Tatsache? - Reinhold Mannsberger/Rudolf Sommer](http://www.neopresse.com/finanzsystem/geld-aus-dem-nichts-mythos-oder-tatsache/)
+
+[Können einzelne Banken Geld aus dem Nichts schaffen? – Die Theorien und der empirische Beweis - Prof. Richard A. Werner](https://www.kreditopferhilfe.net/docs/Koennen_einzelne_Banken_Geld_aus_dem_Nichts_schaffen_%28mit_allen_Beilagen%29.pdf)
+
+[Geldgeschichte: Das Mirakel von Guernsey - Hermann Benjes](http://www.taxos.info/texts/Guernsey.html)
+
+[Erbschaftssteuer: Wer sind die Lobbyisten der Reichen? - Christina Deckwirth](https://www.lobbycontrol.de/2016/09/erbschaftssteuer-wer-sind-die-lobbyisten-der-reichen/)
+
+[Irrlehren der Wirtschaftswissenschaften](https://www.freitag.de/autoren/kov-kreditopferverein/irrlehren-der-wirtschaftswissenschaften)
+
+[»Diese Ökonomik hat menschenfeindliche Züge« - Jonas Weyrosta](https://www.freitag.de/autoren/weilmeldung/diese-oekonomik-hat-menschenfeindliche-zuege)
+
+[Island will den Banken das Recht zur Geldschöpfung entziehen](http://www.forschung-und-wissen.de/nachrichten/oekonomie/island-will-den-banken-das-recht-zur-geldschoepfung-entziehen-13372297)
+
+[Wirtschaft unter Wachstumszwang? - Hans-Jürgen Fischbeck](http://www.wissenschaft-und-frieden.de/seite.php?artikelID=1329)
+
+[Die Demokratisierung der Geldschöpfung ist die Lösung des Problems des heutigen Geldsystems! - Dr. Georg Chaziteodorou](http://berlin-athen.eu/die-demokratisierung-der-geldschoepfung-ist-die-loesung-des-problems-des-heutigen-geldsystems/)
+
+[Der Bundestag und das Geldsystem - Paul Schreyer](http://www.heise.de/tp/artikel/48/48388/1.html)
+
+[Jobwunder ist nur Teilzeitwunder - 4,7 Millionen Vollzeitstellen weniger als vor 25 Jahren - Stefan Vetter](https://archive.is/FL3ML)
+
+[Die Lohnspreizung ist nicht weiter gewachsen. Ist das so? Von relativen Werten und harten Euros](http://aktuelle-sozialpolitik.blogspot.de/2016/09/199.html)
+
+[Wider die alltägliche Indoktrination - Prof. Dr. Christian Kreiß im Interview](http://www.nachdenkseiten.de/?p=34952)
+
+[Giralgeld - Walter Panhuber](http://www.medianus.at/giralgeld/)
+
+Bargeldabschaffung - Systemische Hintergründe - Monetative
