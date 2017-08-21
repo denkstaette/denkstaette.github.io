@@ -79,3 +79,27 @@ Es gäbe noch viel zu schreiben. Der Text würde sich ver-X-fachen. So bleibt es
 
 ![Lass die Glotze aus!](http://ic.pics.livejournal.com/monenova/79747937/1020/1020_800.jpg  "Lass die Glotze aus!")
 
+![Lass die Glotze aus!](http://ic.pics.livejournal.com/monenova/79747937/1020/1020_800.jpg  "Lass die Glotze aus!")
+
+Und: Lass die Glotze aus … Dann hast Du mehr Zeit zum Überlegen und für die anschließenden Links.
+
+Viele Grüße
+Dein Mitmensch
+
+»Jeder hat soviel Recht, wie er Macht hat.« [Baruch de Spinoza]
+
+
+
+**Quellen:**
+
+[Krebs im Wirtschaftsleben – Prof. Dr. Christian Kreiß](http://menschengerechtewirtschaft.de/wp-content/uploads/2016/02/Krebs-im-wirtschaftsleben.pdf)
+
+[Wie der Zins(eszins) als perfider Umverteilungsturbo wirkt: eine Analyse - Dr. Otmar Pregetter](https://www.freitag.de/autoren/pregetterotmar/zins-eszins-der-perfide-umverteilungsturbo)
+
+[Geld ohne Zinsen und Inflation – Margit Kennedy](http://www.kennedy-bibliothek.info/cx-content/uploads/bibliothek/GeldbuchDeutsch2006.pdf)
+
+Das Geld-Syndrom – Helmut Creutz
+[1](http://userpage.fu-berlin.de/%7Eroehrigw/creutz/)
+[2](http://www.helmut-creutz.de/pdf/grafiken/b/creutz_034-43.pdf)
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/gkWpVia9PfQ" frameborder="0" allowfullscreen></iframe> 
