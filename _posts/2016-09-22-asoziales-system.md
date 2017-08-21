@@ -79,18 +79,16 @@ Es gäbe noch viel zu schreiben. Der Text würde sich ver-X-fachen. So bleibt es
 
 ![Lass die Glotze aus!](http://ic.pics.livejournal.com/monenova/79747937/1020/1020_800.jpg  "Lass die Glotze aus!")
 
-![Lass die Glotze aus!](http://ic.pics.livejournal.com/monenova/79747937/1020/1020_800.jpg  "Lass die Glotze aus!")
-
-Und: Lass die Glotze aus … Dann hast Du mehr Zeit zum Überlegen und für die anschließenden Links.
+Und: Lass die Glotze aus… Dann hast Du mehr Zeit zum Überlegen und für die anschließenden Links.
 
 Viele Grüße
 Dein Mitmensch
 
-»Jeder hat soviel Recht, wie er Macht hat.« [Baruch de Spinoza]
+**»Jeder hat soviel Recht, wie er Macht hat.«** [Baruch de Spinoza]
 
 
 
-**Quellen:**
+### Quellen:
 
 [Krebs im Wirtschaftsleben – Prof. Dr. Christian Kreiß](http://menschengerechtewirtschaft.de/wp-content/uploads/2016/02/Krebs-im-wirtschaftsleben.pdf)
 
@@ -103,3 +101,15 @@ Das Geld-Syndrom – Helmut Creutz
 [2](http://www.helmut-creutz.de/pdf/grafiken/b/creutz_034-43.pdf)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/gkWpVia9PfQ" frameborder="0" allowfullscreen></iframe> 
+
+[Wo sind die Grenzen? Zur Messung und Verteilung von Vermögen in Deutschland - Promotionskollegs „Steuer- und Sozialpolitik bei wachsender Ungleichheit“](https://blogs.fu-berlin.de/inequalitics/2014/04/17/wo-sind-die-grenzen-zur-messung-und-verteilung-von-vermoegen-in-deutschland/)
+
+[Per Saldo ... was unter dem Strich herauskommt / Vom rechtlichen Umgang mit Geld – eine Beschwerde an die Verfassungsorgane der BRD - Dr. Dieter Petschow](http://www.berndsenf.de/pdf/Per-Saldo.pdf)
+
+
+### Weiterführende Links:
+
+[Entschuldung von Staaten und Banken ohne Steuergelder - Paul Kircher](http://humaneconomy.it/deutsch/entschuldung-von-staaten-und-banken-ohne-steuergelder/)
+
+Debt Equity Swap
+<iframe width="560" height="315" src="//www.youtube.com/embed/pTzvh3pmYwg" frameborder="0" allowfullscreen></iframe> 
