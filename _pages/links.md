@@ -24,3 +24,37 @@ share: false
 
 [Norbert Häring](http://norberthaering.de/de/)
 
+[Vollgeld-Initiative Schweiz](http://www.vollgeld-initiative.ch/)
+
+[Geldreform - Materialien zur Geld-, Zins- und Schuldenproblematik](http://www.geldreform.de/)
+
+[Helmut Creutz - Natürliche Wirtschaftsordnung, Geldsystem](http://www.helmut-creutz.de/index.html)
+
+[Christen für gerechte Wirtschaftsordnung e.V.](http://cgw.de/)
+
+[Die Natürliche Wirtschaftsordnung](http://www.nwo.de/)
+
+[Solidarische Landwirtschaft](https://www.solidarische-landwirtschaft.org/de/startseite/)
+
+[Bernd Senf - Volkswirtschaftslehre, Geldsystem](http://berndsenf.de/)
+
+[Banken in die Schranken!](https://www.banken-in-die-schranken.net/de/)
+
+[Horst Seiffert - Geldschöpfung - Die verborgene Macht der Banken](http://www.horstseiffert.de/tefg/)
+
+[Udo Hochschild - Idee und Wirklichkeit der Gewaltenteilung in Deutschland](http://www.gewaltenteilung.de/)
+
+[9,5 Thesen](http://www.9komma5thesen.de/)
+
+[Popagandaschau](https://propagandaschau.wordpress.com/)
+
+[Counter Current News](http://countercurrentnews.com/)
+
+[Torekes - Gent](http://www.torekes.be/en)
+[MONNETA - Geldsystem](http://monneta.org/)
+[Strategic Culture]
+[Washingtons Blog]
+[consortiumnews.com]
+[Krisis - Kritik an der Warengesellschaft]
+[Freerk Huisken]
+[Otmar Pregetter]
