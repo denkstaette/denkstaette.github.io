@@ -65,3 +65,15 @@ share: false
 [Freerk Huisken](http://www.fhuisken.de/)
 
 [Otmar Pregetter](https://www.freitag.de/autoren/pregetterotmar)
+
+[Hintergrund](https://www.hintergrund.de/)
+
+[WELTNETZ TV](https://weltnetz.tv/)
+
+[Free21](http://www.free21.org/)
+
+[acTVism](http://www.actvism.org/)
+
+[KENFM](https://kenfm.de/)
+
+[info-money](http://www.informationsgeld.info/)
