@@ -51,10 +51,17 @@ share: false
 [Counter Current News](http://countercurrentnews.com/)
 
 [Torekes - Gent](http://www.torekes.be/en)
+
 [MONNETA - Geldsystem](http://monneta.org/)
-[Strategic Culture]
-[Washingtons Blog]
-[consortiumnews.com]
-[Krisis - Kritik an der Warengesellschaft]
-[Freerk Huisken]
-[Otmar Pregetter]
+
+[Strategic Culture](http://www.strategic-culture.org/)
+
+[Washingtons Blog](http://www.washingtonsblog.com/)
+
+[consortiumnews.com](https://consortiumnews.com/)
+
+[Krisis - Kritik an der Warengesellschaft](http://www.krisis.org/)
+
+[Freerk Huisken](http://www.fhuisken.de/)
+
+[Otmar Pregetter](https://www.freitag.de/autoren/pregetterotmar)
