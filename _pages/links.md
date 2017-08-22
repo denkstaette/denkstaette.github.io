@@ -6,8 +6,6 @@ order: 4
 share: false
 ---
 
-### Interessante Webseiten:
-
 [Menschengerechte Wirtschaft](http://menschengerechtewirtschaft.de/)
 
 [Social Credit Theory](http://www.socred.org/)
