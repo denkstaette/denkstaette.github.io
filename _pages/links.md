@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Interessante Webseiten und Quellen
 permalink: /links/
 order: 4
 share: false
