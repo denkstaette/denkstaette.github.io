@@ -3,7 +3,7 @@ layout: post
 title: Karl Walker - Das Geld in der Geschichte 
 tags: Menschen Leben Geld Demokratie Geschichte Fundstücke
 ---
-![Das Geld in der Geschichte](/assets/img/180px-Das_Geld_in_der_Geschichte.jpg  "Das Geld in der Geschichte"
+![Das Geld in der Geschichte](/assets/img/180px-Das_Geld_in_der_Geschichte.jpg  "Das Geld in der Geschichte")
 
 Dieses lesenswerte, komplette Buch gibt es hier als .html:
 
