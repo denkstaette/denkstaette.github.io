@@ -68,8 +68,6 @@ share: false
 
 [Hintergrund](https://www.hintergrund.de/)
 
-[WELTNETZ TV](https://weltnetz.tv/)
-
 [Free21](http://www.free21.org/)
 
 [acTVism](http://www.actvism.org/)
