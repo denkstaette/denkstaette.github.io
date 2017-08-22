@@ -14,6 +14,8 @@ share: false
 
 [Human Economy (deutsch)](http://humaneconomy.it/deutsch/home/)
 
+[Akademie für Potentialentfaltung](http://www.akademiefuerpotentialentfaltung.org/) 
+
 [System der politischen Ökonomie - Prof. Dr. Gustav Ruhland](http://www.vergessene-buecher.de/)
 
 [RUBIKON](http://www.rubikon.news/)
