@@ -14,7 +14,7 @@ Paul Lafargue, 1883
 
 **Zwischen Kapital und Arbeiterbewegung gab es fast immer die grundsätzliche Übereinstimmung, daß die Leute schaffen müssen. Auch bei dem Teil der Arbeiterbewegung, der sich auf Marx beruft**...« <!--more-->
 
-[http://www.wildcat-www.de/material/m003lafa.htm] (http://www.wildcat-www.de/material/m003lafa.htm)
+[http://www.wildcat-www.de/material/m003lafa.htm](http://www.wildcat-www.de/material/m003lafa.htm)
 
 gespeichert auf: [https://archive.is/v6fA](https://archive.is/v6fA)
 
