@@ -3,7 +3,7 @@ layout: post
 title:  Professor Moros Karottensuppe
 tags: Menschen Tiere Leben Gesundheit
 ---
-Ein Rezept, welches wir seit Jahren anwenden bei kleinsten Zeichen von Durchfall: Moros Karottensuppe
+Ein Rezept, welches wir seit Jahren bei unseren Hunden anwenden, wenn Anzeichen von Durchfall erkennbar sind. Auch für Menschen absolut empfehlenswert und wirkungsvoll. *Moros Karottensuppe*
 
 **Karotten können Antibiotika ersetzen**
 von Wolfgang Kappler
