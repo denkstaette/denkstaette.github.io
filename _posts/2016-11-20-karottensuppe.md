@@ -16,4 +16,4 @@ von Wolfgang Kappler
 >**Rezept für die Morosche Karottensuppe: 500g geschälte Karotten in einem Liter Wasser eine Stunde kochen, durch ein Sieb drücken oder im Mixer pürieren. Die Gesamtmenge wieder auf einen Liter (mit abgekochtem Wasser) auffüllen. Drei Gramm Kochsalz ( ein knapp gestrichener Teelöffel) hinzufügen. Fertig.**
 
 Quelle:
-(http://kritische-tiermedizin.de/ernaehrung/karotten.htm)[http://kritische-tiermedizin.de/ernaehrung/karotten.htm]
+[http://kritische-tiermedizin.de/ernaehrung/karotten.htm](http://kritische-tiermedizin.de/ernaehrung/karotten.htm)
