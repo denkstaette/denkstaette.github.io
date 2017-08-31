@@ -12,11 +12,17 @@ Hier kommt das Rezept zum Nachmachen. **Es soll eine Anregung/Denkanstoß sein, 
 **Das Rezept:**
 
 200g        Kollagenhydrolysat
+
 100g        Glucosaminsulfat 2KCl (bei HCL 25% weniger)
+
 50g          Chondroitinsulfat
-60g          Methylsulfonylmethan (bekannt als MSM)
+
+60g          Methylsulfonylmethan (bekannt als MSM - organischer Schwefel)
+
 20g          Calciumcitrat
+
 10g          Magnesiumcitrat
+
 10g          Vitamin C
 
 Bei uns wurde/wird es verabreicht: bis 10kg Körpergewicht = ca. 2,5g/Tag, bis 20kg Körpergewicht = ca. 5g/Tag. Das ist keine grundsätzliche Dosierempfehlung. Im oben beschriebenen Fall hat sie die erhofften umfangreichen Wirkungen erzielt. Man sollte darauf achten, dass man Zutaten mit einem hohen Reinheitsgrad verwendet. Zusammenfassend kann ich schreiben: Ein preiswertes, sehr wirkungsvolles Mittel.
