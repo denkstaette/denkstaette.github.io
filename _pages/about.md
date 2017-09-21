@@ -6,6 +6,7 @@ order: 1
 share: false
 ---
 
-[TtskchTheme](https://github.com/ttskch/jekyll-ttskch-theme) is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+**»Wenn du ein Schiff bauen willst, so trommle nicht Männer zusammen, um Holz zu beschaffen, Werkzeuge vorzubereiten, Aufgaben zu vergeben und die Arbeit einzuteilen, sondern lehre die Männer die Sehnsucht nach dem weiten, endlosen Meer!«**
+Antoine de Saint-Exupery
 
-Enjoy! :smiley:
+
