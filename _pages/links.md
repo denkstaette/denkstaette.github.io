@@ -62,6 +62,8 @@ share: false
 
 [Freerk Huisken](http://www.fhuisken.de/)
 
+[Freie Verwaltung des Nachlasses von Rudolf Steiner](http://fvn-rs.net)
+
 [Otmar Pregetter](https://www.freitag.de/autoren/pregetterotmar)
 
 [Hintergrund](https://www.hintergrund.de/)
