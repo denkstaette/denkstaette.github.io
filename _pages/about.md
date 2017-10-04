@@ -17,3 +17,6 @@ Alexander Mitscherlich
 
 **»... und wer hoch steht, der hasst die Aufklärung des Volkes, weil sich nur Dumme dumm regieren lassen.«**<br>
 Karl May
+
+**»Fragen Sie zunächst nicht: Was soll ich tun, oder was soll der oder jener tun? - Das alles sind heute in gewisser Beziehung deplacierte Fragen für die meisten Menschen zunächst. Dagegen ist eine wichtige Frage die: Wie bekomme ich Einsicht in die gegenwärtigen Verhältnisse?«**<br>
+Rudolf Steiner
