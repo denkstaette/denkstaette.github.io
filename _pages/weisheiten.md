@@ -1,10 +1,13 @@
 ---
 layout: page
-title: »Weisheiten«
-permalink: /about/
+title: Weisheiten
+permalink: /weisheiten/
 order: 1
 share: false
 ---
+
+**»Eine zynische, käufliche, demagogische Presse wird mit der Zeit ein Volk erzeugen, das genauso niederträchtig ist, wie sie selbst.«**<br>
+Joseph Pulitzer
 
 **»Wenn du ein Schiff bauen willst, so trommle nicht Männer zusammen, um Holz zu beschaffen, Werkzeuge vorzubereiten, Aufgaben zu vergeben und die Arbeit einzuteilen, sondern lehre die Männer die Sehnsucht nach dem weiten, endlosen Meer!«**<br>
 Antoine de Saint-Exupery
