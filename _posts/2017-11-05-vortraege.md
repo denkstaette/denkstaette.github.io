@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sehenswerte Beiträge und Vorträge
-tags: Menschen Leben Demokratie Wahlen Humanismus USA Freiheit
+tags: Menschen Leben Demokratie Wahlen Humanismus USA Freiheit Video Philosophie
 ---
 #### Hagen Rether: Unser Wohlstand steht auf Leichenbergen - WDR
 
