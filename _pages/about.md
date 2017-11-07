@@ -9,7 +9,7 @@ share: false
 **»Wenn du ein Schiff bauen willst, so trommle nicht Männer zusammen, um Holz zu beschaffen, Werkzeuge vorzubereiten, Aufgaben zu vergeben und die Arbeit einzuteilen, sondern lehre die Männer die Sehnsucht nach dem weiten, endlosen Meer!«**<br>
 Antoine de Saint-Exupery
 
-**»Denken ist die schwerste Arbeit, die es gibt. Das ist wahrscheinlich auch der Grund, warum sich so wenige Leute damit beschäftigen«**<br>
+**»Denken ist die schwerste Arbeit, die es gibt. Das ist wahrscheinlich auch der Grund, warum sich so wenige Leute damit beschäftigen.«**<br>
 Henry Ford
 
 **»Ich weiß nicht, ob es besser wird, wenn es anders wird. Aber es muss anders werden, wenn es besser werden soll.«**<br>
