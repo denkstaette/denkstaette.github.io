@@ -9,6 +9,9 @@ share: false
 **»Eine zynische, käufliche, demagogische Presse wird mit der Zeit ein Volk erzeugen, das genauso niederträchtig ist, wie sie selbst.«**<br>
 Joseph Pulitzer
 
+**»Die Ohnmacht des Einzelnen ist vielleicht die gefährlichste Illusion, die ein Mensch haben kann.«**<br>
+Joseph Weizenbaum
+
 **»News sind für den Geist, was Zucker für den Körper ist.«**<br>
 Rolf Dobelli
 
@@ -49,6 +52,9 @@ Chinesisches Sprichwort
 
 **»Fragen Sie zunächst nicht: Was soll ich tun, oder was soll der oder jener tun? - Das alles sind heute in gewisser Beziehung deplacierte Fragen für die meisten Menschen zunächst. Dagegen ist eine wichtige Frage die: Wie bekomme ich Einsicht in die gegenwärtigen Verhältnisse?«**<br>
 Rudolf Steiner
+
+**»Heute glauben alle, sie müssten nur googlen, um an relevante Informationen zu gelangen. Dabei muss man erst einmal lernen, richtige Fragen zu stellen. Gute Fragen sind wie ein wissenschaftliches Experiment.«**<br>
+Joseph Weizenbaum
 
 **»Alles, was in der Ferne vor sich geht und uns nicht direkt bedroht, das heißen wir gut.«**<br>
 Alexander Solschenizyn
