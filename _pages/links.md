@@ -18,6 +18,8 @@ share: false
 
 [RUBIKON](http://www.rubikon.news/)
 
+[Samuel Pufendorf Gesellschaft für politische Ökonomie e.V.](https://www.pufendorf-gesellschaft.org)
+
 [KRITISCHES NETZWERK](http://www.kritisches-netzwerk.de/)
 
 [Norbert Häring](http://norberthaering.de/de/)
