@@ -18,6 +18,9 @@ Rolf Dobelli
 **»Wenn du ein Schiff bauen willst, so trommle nicht Männer zusammen, um Holz zu beschaffen, Werkzeuge vorzubereiten, Aufgaben zu vergeben und die Arbeit einzuteilen, sondern lehre die Männer die Sehnsucht nach dem weiten, endlosen Meer!«**<br>
 Antoine de Saint-Exupery
 
+**»Die unheilvolle Neigung, über die Dinge nicht mehr nachzudenken, sobald sie nicht mehr zweifelhaft sind, hat die Hälfte aller menschlicher Irrtümer zu verantworten.«**<br>
+Blaise Pascal
+
 **»Denken ist die schwerste Arbeit, die es gibt. Das ist wahrscheinlich auch der Grund, warum sich so wenige Leute damit beschäftigen.«**<br>
 Henry Ford
 
