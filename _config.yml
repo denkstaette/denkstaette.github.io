@@ -51,8 +51,8 @@ permalink: pretty
 #
 # Localizations.
 #
-str_next: Vor
-str_prev: Zurück
+str_next: Ältere Beiträge
+str_prev: Neuere Beiträge
 str_read_more: Weiter lesen...
 str_search: Suche
 str_recent_posts: Aktuelle Beiträge
