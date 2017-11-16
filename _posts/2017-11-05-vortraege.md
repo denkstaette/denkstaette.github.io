@@ -14,6 +14,7 @@ tags: Menschen Leben Demokratie Wahlen Humanismus USA Freiheit Video Philosophie
 
 
 #### 28. Pleisweiler Gespräche mit Professor Mausfeld - 22. Oktober 2017 - Nachdenkseiten
+mit [Transkript](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Transkript_Landau_NDS.pdf) und [Folien](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Folien_Landau_NDS.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aK1eUnfcK4Q" frameborder="0" allowfullscreen></iframe>
 
