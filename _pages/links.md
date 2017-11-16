@@ -74,6 +74,8 @@ share: false
 
 [Free21](http://www.free21.org/)
 
+[NachDenkSeiten](http://www.nachdenkseiten.de/)
+
 [acTVism](http://www.actvism.org/)
 
 [KENFM](https://kenfm.de/)
