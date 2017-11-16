@@ -1,3 +1,4 @@
+---
 layout: post
 title: Wir sind nicht zu viele. Wir sind nur zu blöd!
 tags: Menschen Leben Demokratie Geld Humanismus Wirtschaft Ökonomie Umwelt Natur Cradle2Cradle
