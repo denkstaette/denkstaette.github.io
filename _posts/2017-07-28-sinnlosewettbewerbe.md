@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sinnlose Wettbewerbe – Warum immer mehr Unsinn produziert wird
-tags: Menschen Leben Demokratie Geld Humanismus Wirtschaft Ökonomie Umwelt Natur 
+tags: Menschen Leben Demokratie Geld Humanismus Wirtschaft Ökonomie Umwelt Natur Video
 ---
 Sehenswerter Vortrag von Prof. Mathias Binswanger auf der Hauptversammlung von Neustart Schweiz an der FHNW in Olten am 24. Mai 2013.
 
