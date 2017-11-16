@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wir sind nicht zu viele. Wir sind nur zu blöd!
+title: »Wir« sind nicht zu viele. »Wir« sind nur zu blöd!
 tags: Menschen Leben Demokratie Geld Humanismus Wirtschaft Ökonomie Umwelt Natur Cradle2Cradle
 ---
 Prof. Michael Braungart Cradle to Cradle Keynote – Entrepreneurship Summit 2015 in Berlin:
