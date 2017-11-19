@@ -3,7 +3,7 @@ layout: post
 title:  Die Befreiung der Wissenschaft - Rupert Sheldrake
 tags: Menschen Leben Humanismus Natur Wissenschaft Philosophie Sheldrake Video
 ---
-Die Befreiung der Wissenschaft - Rupert Sheldrake - Fakten & Mythen | ganzer Vortrag
+Die Befreiung der Wissenschaft - Rupert Sheldrake - Fakten & Mythen - ganzer Vortrag
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODnuDRFCVbc" frameborder="0" allowfullscreen></iframe>
 
