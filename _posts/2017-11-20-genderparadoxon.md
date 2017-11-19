@@ -12,5 +12,5 @@ Hier ist der Beschreibungstext:
 Der norwegische Filmemacher Eia geht hier der Frage nach, ob Mädchen und Jungen tatsächlich, entsprechend der postulierten Gender-Lehre, in ihrem Sozialverhalten unmittelbar nach der Geburt absolut identisch sind und die Kausalität aller manifestierten Verhaltensunterschiede ausschließlich in der Prägung durch das soziale Umfeld während des Aufwachsens liegt. Er hinterfragt die Aussagen der "Genderforscher" und vergleicht sie mit wissenschaftlichen Erkenntnissen von Anthropologen und Biologen. Die Reportage lief 2010 im norwegischen Fernsehen anläßlich einer 7-teiligen Themenreihe. Die anderen Teile (The Parental Effect, Gay/Straight, Violence, Sex, Race, Nature or Nurture) finden man (in englisch synchr. Fassung) bei youtube mit den Suchbegriffen: "Brainwash Eia". Ein nicht nur für "Elter" und "Erzeuger" sehenswerter Film...«
 
 Zusätzliche Gedanken:
-[Was Patriarchat nicht ist -> Männerherrschaft ](https://denkstaette.github.io/2017/11/19/patriarchat/)
+[Was Patriarchat nicht ist -> Männerherrschaft ](https://denkstaette.github.io/2017/11/19/patriarchat/)<br />
 Ist die Goldene Regel noch zeitgemäß? War sie jemals human? [Teil 1](https://denkstaette.github.io/2017/04/23/goldeneregel1/) / [Teil 2](https://denkstaette.github.io/2017/04/24/goldeneregel2/)
