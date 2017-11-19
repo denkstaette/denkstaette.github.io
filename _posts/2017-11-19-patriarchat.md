@@ -3,6 +3,7 @@ layout: post
 title: Was Patriarchat nicht ist -> Männerherrschaft
 tags: Menschen Leben Demokratie Hierarchie Heterarchie Patriarchat Matriarchat
 ---
+
 ![](/assets/img/pexels-photo-289224.jpg)
 
 >» Patriarchat bedeutet nicht "Männerherrschaft", sondern "Vaterherrschaft"; das ist ein Unterschied. Vaterherrschaft ist auch nicht das Gegenteil von Matriarchat.
