@@ -30,7 +30,7 @@ Die Regel appelliert in beiden Fällen an deine Vorbildlichkeit und beinhaltet, 
 Beispiel: Geschenke.
 Leute schenken andern etwas zum Geburtstag und erwarten an ihrem Geburtstag ebenfalls ein Geschenk. Wenn jemand nichts schenkt, bekommt sie auch nichts zurück.
 
-Dies entspricht der Fomulierung im Kommentar „ich tue jenes einem anderen Menschen, damit er mir gleiches zurückgebe… “.
+Dies entspricht der Fomulierung im Kommentar „ich tue jenes einem anderen Menschen, damit er mir gleiches zurückgebe…“.
 
 Jetzt meine persönliche Situation: Ich will keine Geschenke. Ich empfinde sie als Ballast und gebe sie den Leuten wieder mit, falls sie meinen Wunsch nicht respektieren; bei einer Einladung beispielsweise. Dies entspricht der Formulierung im Kommentar “einem anderen Menschen zuzufügen, was ich auch nicht zugefügt haben möchte“.
 
