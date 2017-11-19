@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Was Patriarchat nicht ist\: Männerherrschaft
+title: Was Patriarchat nicht ist -> Männerherrschaft
 tags: Menschen Leben Demokratie Hierarchie Heterarchie Patriarchat Matriarchat
 ---
 ![](/assets/img/pexels-photo-289224.jpg)
