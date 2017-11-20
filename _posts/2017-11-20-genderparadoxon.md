@@ -4,7 +4,7 @@ title: Sind Mann und Frau wirklich gleich? Das Gleichstellungsparadox
 tags: Menschen Leben Demokratie Gender Humanismus Patriarchat Matriarchat Video
 ---
 Immer wieder lese auf verschiedenen Blogs über Gender»problematik«. Das heißt, ich lese die Beiträge nicht, ich überfliege sie. Warum? Für mich sind Menschen gleichwertig. Mir ist es völlig egal, welchem Geschlecht sie sich zurechnen. Das ist Privatsache. Unterschiedlichkeit ist toll. Problematisch ist allerdings, wenn man aus der individuellen und privaten Unterschiedlichkeit ein Politikum entwickelt. In diesem Punkt gebe ich den Kritikern des Gendermainstreams recht. 
-Ich erinnerte mich an einen norwegischen Dokumentarfilm, den ich vor einigen Jahren auf YT gesehen hatte und fand ihn tatsächlich noch. Für mich ist das Thema Gender und Geschlechter geklärt. 
+Ich erinnerte mich an einen norwegischen Dokumentarfilm, den ich vor einigen Jahren auf YT gesehen hatte und fand ihn tatsächlich noch. Mehr Aufmerksamkeit werde ich diesem Thema nicht widmen. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Rzd2UmpkZs" frameborder="0" allowfullscreen></iframe>
 
