@@ -3,6 +3,7 @@ layout: post
 title:  DIE Gerechtigkeit gibt es nicht
 tags: Menschen Leben Demokratie Geld Humanismus Wirtschaft Ökonomie Willkür Arbeit Gerechtigkeit
 ---
+
 ![](/assets/img/don.jpg)<br />
 Bild: [“Don Quixote and Sancho Panza” by Honore Daumier (1850) via Wikipedia](https://en.wikipedia.org/wiki/File:Honore-Daumier-Don-Quixote.jpg)
 
