@@ -30,6 +30,6 @@ mit [Transkript](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Transkr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjV2lCIRblw" frameborder="0" allowfullscreen></iframe>
 
-#### Huehner für Afrika - Vom Unsinn des globalen Handels
+#### Hühner für Afrika - Vom Unsinn des globalen Handels
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oYuUaFo8Pyc" frameborder="0" allowfullscreen></iframe>
