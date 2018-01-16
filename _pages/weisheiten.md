@@ -11,10 +11,10 @@ Paul Valery
 **»Eine zynische, käufliche, demagogische Presse wird mit der Zeit ein Volk erzeugen, das genauso niederträchtig ist, wie sie selbst.«**  
 Joseph Pulitzer
 
-**»Die Ohnmacht des Einzelnen ist vielleicht die gefährlichste Illusion, die ein Mensch haben kann.«**<br>
+**»Die Ohnmacht des Einzelnen ist vielleicht die gefährlichste Illusion, die ein Mensch haben kann.«**  
 Joseph Weizenbaum
 
-**»News sind für den Geist, was Zucker für den Körper ist.«**<br>
+**»News sind für den Geist, was Zucker für den Körper ist.«**  
 Rolf Dobelli
 
 **»Wenn du ein Schiff bauen willst, so trommle nicht Männer zusammen, um Holz zu beschaffen, Werkzeuge vorzubereiten, Aufgaben zu vergeben und die Arbeit einzuteilen, sondern lehre die Männer die Sehnsucht nach dem weiten, endlosen Meer!«**<br>
