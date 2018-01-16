@@ -5,8 +5,10 @@ permalink: /weisheiten/
 order: 1
 share: false
 ---
+**»Politik ist die Kunst, die Leute daran zu hindern, sich um das zu kümmern, was sie angeht.«**</ br>
+Paul Valery
 
-**»Eine zynische, käufliche, demagogische Presse wird mit der Zeit ein Volk erzeugen, das genauso niederträchtig ist, wie sie selbst.«**<br>
+**»Eine zynische, käufliche, demagogische Presse wird mit der Zeit ein Volk erzeugen, das genauso niederträchtig ist, wie sie selbst.«**</ br>
 Joseph Pulitzer
 
 **»Die Ohnmacht des Einzelnen ist vielleicht die gefährlichste Illusion, die ein Mensch haben kann.«**<br>
