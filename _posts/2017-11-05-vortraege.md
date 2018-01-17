@@ -18,6 +18,10 @@ mit [Transkript](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Transkr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aK1eUnfcK4Q" frameborder="0" allowfullscreen></iframe>
 
+#### Bewusstsein schafft Visionen - Bertrand Stern zum Ausbruch aus der Schulpflicht
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuhDYWXOkLA" frameborder="0" allowfullscreen></iframe>
+
 #### Bewusstsein schafft Lebenssinn - Prof. Dr. Gerald Hüther im Gespräch mit Jens Lehrich
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_DLc_wBsSaQ" frameborder="0" allowfullscreen></iframe>
