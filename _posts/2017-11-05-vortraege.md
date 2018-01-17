@@ -40,4 +40,4 @@ mit [Transkript](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Transkr
 
 #### Bewusstsein schafft Angstfreiheit - Erwin Thoma im Gespräch mit Jens Lehrich
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CaGzK9l66bc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CaGzK9l66bc" frameborder="0" allowfullscreen></iframe>
