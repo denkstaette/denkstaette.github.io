@@ -18,6 +18,10 @@ mit [Transkript](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Transkr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aK1eUnfcK4Q" frameborder="0" allowfullscreen></iframe>
 
+#### Bewusstsein schafft Lebenssinn - Prof. Dr. Gerald Hüther im Gespräch mit Jens Lehrich
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_DLc_wBsSaQ" frameborder="0" allowfullscreen></iframe>
+
 #### Nassim Taleb: Bringt euch in Schwierigkeiten! (Sternstunde Philosophie, 17.5.2015)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FtkZWU0Zwjo" frameborder="0" allowfullscreen></iframe>
@@ -33,3 +37,7 @@ mit [Transkript](http://www.nachdenkseiten.de/upload/pdf/171022-Mausfeld_Transkr
 #### Hühner für Afrika - Vom Unsinn des globalen Handels
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oYuUaFo8Pyc" frameborder="0" allowfullscreen></iframe>
+
+#### Bewusstsein schafft Angstfreiheit - Erwin Thoma im Gespräch mit Jens Lehrich
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CaGzK9l66bc" frameborder="0" allowfullscreen></iframe>
