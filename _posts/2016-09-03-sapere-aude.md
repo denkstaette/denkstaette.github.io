@@ -6,7 +6,7 @@ tags: Demokratie Parteien Geld Menschen Leben Video Wahlen
 
 **Lieber Mitmensch,**
 
-ich schrieb, dass ich wieder von mir hören lasse. Ich hoffe, Du hast inzwischen ein wenig Zeit gefunden, über den letzten Brief nachzudenken. Ich weiß, Deine Zeit ist knapp. In diesem möchte ich wieder an Deinen Verstand appellieren. Ich beginne mit einem Zitat von Immanuel Kant:
+ich schrieb, dass ich von mir hören lasse. Ich hoffe, Du hast inzwischen ein wenig Zeit gefunden, über den letzten Brief nachzudenken. Ich weiß, Deine Zeit ist knapp. Ich beginne mit einem Zitat von Immanuel Kant:
 
 **»Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. >>Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!«** <!--more-->
 
