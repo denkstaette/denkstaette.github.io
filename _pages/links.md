@@ -14,7 +14,9 @@ share: false
 
 [Akademie für Potentialentfaltung](http://www.akademiefuerpotentialentfaltung.org/) 
 
-[Matriarchat.info](http://matriarchat.info/)
+[Matriarchat.info](http://matriarchat.info/)  
+
+[Deutsche Jahresversammlung der Quäker](https://quaeker.org/)  
 
 [System der politischen Ökonomie - Prof. Dr. Gustav Ruhland](http://www.vergessene-buecher.de/)
 
