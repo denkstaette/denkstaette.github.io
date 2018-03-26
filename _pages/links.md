@@ -32,7 +32,7 @@ share: false
 
 [Geldreform - Materialien zur Geld-, Zins- und Schuldenproblematik](http://www.geldreform.de/)
 
-[Swiss Propaganda Resaerch (deutsch)](https://swprs.org)
+[Swiss Propaganda Research (deutsch)](https://swprs.org)
 
 [Helmut Creutz - Natürliche Wirtschaftsordnung, Geldsystem](http://www.helmut-creutz.de/index.html)
 
