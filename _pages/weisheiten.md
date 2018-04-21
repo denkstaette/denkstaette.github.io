@@ -26,7 +26,7 @@ Blaise Pascal
 **»Denken ist die schwerste Arbeit, die es gibt. Das ist wahrscheinlich auch der Grund, warum sich so wenige Leute damit beschäftigen.«**<br>
 Henry Ford
 
-**Nur die Lüge braucht die Stütze der Staatsgewalt. Die Wahrheit steht von alleine aufrecht.**<br>
+**»Nur die Lüge braucht die Stütze der Staatsgewalt. Die Wahrheit steht von alleine aufrecht.«**<br>
 Thomas Jefferson
 
 **»Ich weiß nicht, ob es besser wird, wenn es anders wird. Aber es muss anders werden, wenn es besser werden soll.«**<br>
