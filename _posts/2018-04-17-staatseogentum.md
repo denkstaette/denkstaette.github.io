@@ -3,7 +3,7 @@ layout: post
 title: Staatseigentum ist Privateigentum  
 tags: Leben Mensch Gesellschaft Eigentum Staat Geld Demokratie  
 ---
-*Warum Staat und Eigentum getrennt werden müssen* - von Daniela Dahn
+**Warum Staat und Eigentum getrennt werden müssen** - von Daniela Dahn
 
 > ... Das Gegenteil von Privateigentum ist nicht Staatseigentum, sondern Gemeineigentum. Ein im Grundgesetz als Option angebotener Begriff. Der Staat und seine Kommunen könnten in Rechtsträgerschaft, was im bürgerlichen Recht bisher nicht vorgesehen ist, große Teile des Gemeineigentums verwalten, wenn der Souverän die Kontrolle und das letzte Wort behält. Otto Bauer hat sich schon vor fast hundert Jahren einen paritätisch zusammengesetzten Verwaltungsrat als oberste wirtschaftliche Instanz vorgestellt. Doch ein Rechtsgefüge zum Gemeineigentum ist im Westen nie entwickelt worden.
 
