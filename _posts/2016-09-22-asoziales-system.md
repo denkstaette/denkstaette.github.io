@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sozialwidriges Verhalten in einem asozialen System oder Der Teufel und der größte Haufen
-tags: Demokratie Ideologie Propaganda Parteien Geld Menschen Leben Wahlen Video
+tags: Demokratie Ideologie Propaganda Parteien Geld Menschen Leben Wahlen Video Arbeit HartzIV
 ---
 **Lieber Mitmensch,**
 
