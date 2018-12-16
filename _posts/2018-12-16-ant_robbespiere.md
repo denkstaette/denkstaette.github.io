@@ -6,7 +6,7 @@ tags: Ideologie Leben Gesellschaft Geld Wirtschaft Ökonomie System Demokratie M
 
 @Robbespiere
 
-Wenn ich etwas wirklich ändern will, muss ich auch bereit sein, von Grund auf anders/neu zu denken. Du steckst mit Deinem Denken zu tief im bestehenden System. Das ist ein Dilemma. Um zu verdeutlichen, was ich meine:  
+Wenn ich wirklich etwas ändern will, muss ich auch bereit sein, von Grund auf anders/neu zu denken. Du steckst mit Deinem Denken zu tief im bestehenden System. Das ist ein Dilemma. Um zu verdeutlichen, was ich meine:  
 
 Nehmen wir an wir wohnen in einem Haus, in dem der Keller regelmäßig mit Wasser geflutet wird. In der ersten Variante haben wir eine Krisensituation durch regelmäßige Rohrbrüche. Mit unseren »Bordmitteln«, dem Absperren von Leitungen und Erneuerung des Leitungssystems, beheben wir das Problem.
 In der zweiten Variante kommt das Wasser vom Fluss, der über seine Ufer tritt. Das können wir mit unseren »Bordmitteln« nicht beheben. Man muss anders denken. Selbst der angedachte Deich macht Probleme, weil dann Überschwemmungen an anderer Stelle andere Menschen bedrohen. Man steht vor einem Dilemma.<!--more-->
