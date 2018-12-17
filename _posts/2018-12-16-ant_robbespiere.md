@@ -6,6 +6,7 @@ tags: Ideologie Leben Gesellschaft Geld Wirtschaft Ökonomie System Demokratie M
 
 @Robbespiere
 
+Mir und vielen anderen Menschen, sicher auch Dir, ist es wichtig, dass sich im Zusammenleben der menschlichen Gesellschaft etwas ändert. Ich meine damit auch ausdrücklich Veränderung und nicht Reformen. Das ist deswegen wichtig zu unterscheiden, weil sich völlig andere Fragestellungen ergeben.
 Wenn ich wirklich etwas ändern will, muss ich auch bereit sein, von Grund auf anders/neu zu denken. Du steckst mit Deinem Denken zu tief im bestehenden System. Das ist ein Dilemma. Ein Dilemma lässt sich aber weder auf der gleichen Ebene lösen, auf der es entstand, noch mit mit den gleichen Mitteln, die es verursachten. Um zu verdeutlichen, was ich meine:  
 
 Nehmen wir an wir wohnen in einem Haus, in dem der Keller regelmäßig mit Wasser geflutet wird. In der ersten Variante haben wir eine Krisensituation durch regelmäßige Rohrbrüche. Mit unseren »Bordmitteln«, dem Absperren von Leitungen und Erneuerung des Leitungssystems, beheben wir das Problem.
