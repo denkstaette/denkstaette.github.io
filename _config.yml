@@ -87,6 +87,7 @@ ogp:
 #
 plugins:
   - jekyll-paginate
+  - jekyll-feed
   - jemoji
 
 #
